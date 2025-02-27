@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on the mecano project using flutterflow.
+- 🔭 I’m currently working on the mecano project using flutter for UI, TypeScript and node.js for backend.
 - 🌱 I’m currently learning cloud computing.
 - 👯 I’m looking to collaborate on a project using JavaScript, React, Node.js,Rest API.
 
