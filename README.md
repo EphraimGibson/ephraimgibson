@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hello 👋
 
-- 🔭 I’m currently working on the mecano project using flutter for UI, TypeScript and node.js for backend.
-- 🌱 I’m currently learning Java, DSAA and cloud computing.
-- 👯 I’m looking to collaborate on a project using JavaScript, React, Node.js,Rest API.
+- 🔭 I’m currently working on the LockIn project, utilizing React Native for the UI and TypeScript with Node.js for the backend.
+- 🌱 I’m actively learning Java, Data Structures and Algorithms, and Cloud Computing to expand my technical expertise.
+- 👯 I’m eager to collaborate on projects involving JavaScript, Node.js, and REST APIs to further enhance my skills and contribute to innovative solutions.
 
   
 <!--
