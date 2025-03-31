@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on the LockIn project, utilizing React Native for the UI and TypeScript with Node.js for the backend.
 - 🌱 I’m actively learning Java, Data Structures and Algorithms, and Cloud Computing to expand my technical expertise.
-- 👯 I’m eager to collaborate on projects involving JavaScript, Node.js, and REST APIs to further enhance my skills and contribute to innovative solutions.
+- 👯 I’m eager to collaborate on projects involving JavaScript, Node.js, and REST APIs to further enhance my web development skills and contribute to innovative solutions.
 
   
 <!--
