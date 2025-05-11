@@ -1,10 +1,29 @@
-## Hello 👋
+# Hi there, I'm Ephraim 👋
 
-- 🔭 I’m currently working on the LockIn project, utilizing React Native for the UI and Node.js/Express for the backend.
-- 🌱 I’m actively learning Data Structures and Algorithms using Java, while also exploring Cloud Computing to expand my technical expertise.
-- 👯 I’m eager to collaborate on projects requiring back-end development with Node.js or springboot to further enhance my back-end development skills and contribute to innovative solutions.
+I'm a passionate and driven developer focused on building impactful software solutions. I love turning complex ideas into clean, scalable systems that solve real-world problems.
 
-  
+## 🚀 What I'm Up To
+
+- 🔭 Currently undertaking **Java Fundamentals** with **EPAM Systems** to build a strong foundation in the language.
+- 🌱 Actively learning **Data Structures and Algorithms (DSA)** in Java, while diving into **Cloud Computing** and infrastructure technologies.
+- 🧠 Exploring **Full-Stack Development** and **AI systems**, always eager to deepen my knowledge.
+- 💡 Looking to collaborate on **projects with real-world impact** — especially those involving tech and business crossover.
+
+## 🤝 Let's Connect & Build
+
+I'm not just a coder — I bring marketing and entrepreneurial energy to every project. If you have an idea and need a tech co-founder who can also think strategically, **let's team up**!
+
+---
+
+📫 **Reach Me On**  
+🌐 **Website:** [ephraimgibson.pro](https://ephraimgibson.pro)
+[LinkedIn](https://linkedin.com/in/ephraimgibson) • [GitHub](https://github.com/ephraimgibson) • mrgibs97@gmail.com  
+🌍 Based in Europe | 🌐 Open to remote collaboration
+
+---
+
+⚡ Fun Fact: I balance all this with playing basketball, working out, and exploring new cultures through travel!
+
 <!--
 **EphraimGibson/ephraimgibson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
