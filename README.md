@@ -11,7 +11,7 @@ I'm a passionate and driven developer focused on building impactful software sol
 
 ## 🤝 Let's Connect & Build
 
-I'm not just a coder — I bring marketing and entrepreneurial energy to every project. If you have an idea and need a tech co-founder who can also think strategically, **let's team up**!
+I'm not just a coder, I bring marketing and entrepreneurial energy to every project. If you have an idea and need a tech co-founder who can also think strategically, **let's team up**!
 
 ---
 
