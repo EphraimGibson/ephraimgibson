@@ -16,13 +16,12 @@ I'm not just a coder — I bring marketing and entrepreneurial energy to every p
 ---
 
 📫 **Reach Me On**  
-🌐 **Website:** [ephraimgibson.pro](https://ephraimgibson.pro)
-[LinkedIn](https://linkedin.com/in/ephraimgibson) • [GitHub](https://github.com/ephraimgibson) • mrgibs97@gmail.com  
+[🌐 Personal Website](https://ephraimgibson.pro) • [LinkedIn](https://linkedin.com/in/ephraimgibson) • [GitHub](https://github.com/ephraimgibson) •  mrgibs97@gmail.com  
 🌍 Based in Europe | 🌐 Open to remote collaboration
 
 ---
 
-⚡ Fun Fact: I balance all this with playing basketball, working out, and exploring new cultures through travel!
+⚡ Fun Fact: I balance all this with playing sports, working out, and exploring new cultures through travel!
 
 <!--
 **EphraimGibson/ephraimgibson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
