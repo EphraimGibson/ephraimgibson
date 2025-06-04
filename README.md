@@ -14,7 +14,7 @@ I'm a passionate and driven developer focused on building impactful software sol
 I'm not just a coder, I bring marketing and entrepreneurial energy to every project. If you have an idea and need a tech co-founder who can also think strategically, **let's team up**!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ephraimgibson) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/90sremy) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/EphraimGibson) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrgibs97@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ephraimgibson) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/90s_remy) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/EphraimGibson) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrgibs97@gmail.com)
 
 ⚡ Fun Fact: I balance all this with playing sports, working out, and exploring new cultures through travel!
 
@@ -39,7 +39,7 @@ I'm not just a coder, I bring marketing and entrepreneurial energy to every proj
 ---
 
 📫 **Reach Me On**  
-[🌐 Personal Website](https://ephraimgibson.pro) • [LinkedIn](https://linkedin.com/in/ephraimgibson) • [GitHub](https://github.com/ephraimgibson) •  mrgibs97@gmail.com  
+[🌐 Personal Website](https://ephraimgibson.pro)  •  mrgibs97@gmail.com  
 🌍 Based in Europe | 🌐 Open to remote collaboration
 
 ---
