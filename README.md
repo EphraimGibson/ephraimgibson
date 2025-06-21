@@ -4,7 +4,6 @@ I'm a passionate and driven developer focused on building impactful software sol
 
 ## 🚀 What I'm Up To
 
-- 🔭 Currently undertaking **Java Fundamentals** training with **EPAM Systems** to build a stronger foundation in the language.
 - 🌱 Actively perfecting **Data Structures and Algorithms (DSA)** , while diving into **Cloud Computing** and infrastructure technologies.
 - 🧠 Exploring **Full-Stack Development** and **AI systems**, always eager to deepen my knowledge.
 - 💡 Looking to collaborate on **projects with real-world impact**
