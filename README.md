@@ -10,7 +10,7 @@ I'm a passionate and driven developer focused on building impactful software sol
 
 ## 🤝 Let's Connect & Build
 
-I'm not just a coder, I bring marketing and entrepreneurial energy to every project.
+I'm not just a programmer, I bring entrepreneurial energy to every project.
 Tech co-founder alert! I'm a strategic thinker, **let's team up**!
 
 ## 🌐 Connect With Me:
