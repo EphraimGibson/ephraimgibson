@@ -4,7 +4,7 @@ I'm a passionate and driven developer focused on building impactful software sol
 
 ## 🚀 What I'm Up To
 
-- 🌱 Actively perfecting **Data Structures and Algorithms (DSA)** , while diving into **Cloud Computing** and infrastructure technologies.
+- 🌱 Actively diving into **Cloud Computing** and infrastructure technologies.
 - 🧠 Exploring **Full-Stack Development** and **AI systems**, always eager to deepen my knowledge.
 - 💡 Looking to collaborate on **projects with real-world impact**
 
