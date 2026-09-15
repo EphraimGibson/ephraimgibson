@@ -8,10 +8,6 @@ I'm a passionate and driven developer focused on building impactful software sol
 - 🧠 Exploring **Full-Stack Development** and **AI systems**, always eager to deepen my knowledge.
 - 💡 Looking to collaborate on **projects with real-world impact**
 
-## 🤝 Let's Connect & Build
-
-I'm not just a programmer, I bring entrepreneurial energy to every project.
-Tech co-founder alert! I'm a strategic thinker, **let's team up**!
 
 ## 🌐 Connect With Me:
 [![Website](https://img.shields.io/badge/Portfolio-%233B7EBF.svg?style=for-the-badge&logo=safari&logoColor=white)](https://ephraimgibson.dev) [![Email](https://img.shields.io/badge/Email-gibsonephraim9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrgibs97@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ephraimgibson)
